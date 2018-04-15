@@ -11,6 +11,6 @@
         android:id="@+id/jokeTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="20sp"
+        android:textSize="@dimen/joke_text_size"
         android:layout_gravity="center"/>
 </LinearLayout>
